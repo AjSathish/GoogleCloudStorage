@@ -6,8 +6,8 @@ This module can be used to generate an Access Token, create and delete buckets i
 
 ## Dependencies
 
-Mendix Version 10.1.1 or Higher
-Community Commons
+1. Mendix Version 10.1.1 or Higher
+2. Community Commons
 
 ## How to configure:
 
